@@ -40,9 +40,11 @@ Fig 2 : Percepción de la desigualdad entre H y M - grupo hombres según edad
 
 Fig 3 : De acuerdo con "Se ha llegado tan lejos en la igualdad que ahora se discrimina a los hombres" - grupo hombres según edad![fig 3](./doc/estadistica3.png)
 
-Son solo algunos ejemplos obtenidos de : 
+Son solo algunos ejemplos obtenidos de : CIS PERCEPCIONES SOBRE LA IGUALDAD ENTRE HOMBRES Y MUJERES Y ESTEREOTIPOS DE GÉNERO. Muestra hombres Estudio nº 3428_1 Noviembre 2023
 
-[CIS PERCEPCIONES SOBRE LA IGUALDAD ENTRE HOMBRES Y MUJERES Y ESTEREOTIPOS DE GÉNERO. Muestra hombres Estudio nº 3428_1 Noviembre 2023](Es3428sd_Hombres_A.pdf)
+[Estudio nº 3428_1 Noviembre 2023](./doc/Es3428sd_Hombres_A.pdf)
+
+
 
 Estudios internaciones muestran el mismo patrón (con las lógicas diferencias por países) : [IWD charts 2025](./doc/IWD 2025 Global Charts FINAL_1.pdf)
 
@@ -125,13 +127,11 @@ Son los algunos ejemplos
 - Mapa de grupos actualmente en Madrid
   
   [Red de grupos de hombres de Madrid contra el machismo](https://redgruposhombresmadrid.wordpress.com/)
-  
-  
-  
+
   ![](./doc/grupos_HxF_madrid.jpg)
-  
+
   ---
-  
+
   FIN
-  
+
   ---
