@@ -12,23 +12,7 @@
 
 5. Enfoque académico 
 
-6. Grupos de hombre pro-feministas
-   
-   - Dos enfoques  de acción : Introspección / Apoyo agenda feminista ( + en cuidados) 
-   
-   - Dos motivaciones : machismo es toxico para los hombres / Justicialistas
-   
-   - Redes de grupos / iniciativas globales
-     
-     - heforshe (ONU)
-     
-     - MenEngage Iberia
-     
-     - Red Hombres por la Igualdad (RHX=)
-     
-     - AHIGE – Asociación de Hombres por la Igualdad de Género
-   
-   - Mapa de grupos actualmente en Madrid
+6. Grupos de hombre pro-feministas, panorámica
    
    ---
    
@@ -44,13 +28,33 @@ Participacion activa en la PPIINA como miembro de Stopmachismo 2007 - 2014
 
 ## 2. "No todo esta perdido"
 
-Estadísticas de precepción del feminismo en hombres jóvenes vs maduros
+Hay últimamente un lamento que recorre los foros feministas y las conversaciones 'progres' sobre **lo machistas que se han vuelto los hombres jóvenes:** **Desgraciadamente es completamente cierto**
+
+Fig 1 : simpatía o antipatía respecto al feminismo - grupo hombres según edad
+
+![fig 1](./doc/estadistica1.png)
+
+Fig 2 : Percepción de la desigualdad entre H y M - grupo hombres según edad
+
+![fig 2](./doc/estadistica2.png)
+
+Fig 3 : De acuerdo con "Se ha llegado tan lejos en la igualdad que ahora se discrimina a los hombres" - grupo hombres según edad![fig 3](./doc/estadistica3.png)
+
+Son solo algunos ejemplos obtenidos de : 
+
+[CIS PERCEPCIONES SOBRE LA IGUALDAD ENTRE HOMBRES Y MUJERES Y ESTEREOTIPOS DE GÉNERO. (Muestra hombres) Estudio nº 3428_1 Noviembre 2023](Es3428sd_Hombres_A.pdf)
+
+Estudios internaciones muestran el mismo patrón (con las lógicas diferencias por países) : [IWD charts 2025](./doc/IWD 2025 Global Charts FINAL_1.pdf)
+
+Por un lado, esta visión es algo , o muy , **edadista** porque implica que los hombres mayores ya no pintamos nada. Seguimos luchando, mucho o poco , pero seguimos luchando.
+
+Por otro lado, se puede interpretar que **al ir creciendo en edad y conocimiento, los hombres nos volvemos menos machistas**
+
+En resumen, no todo esta perdido
 
 ## 3. (broma) que cosa pueda ser un hombre pro feminista : video 'el hombre performativo'
 
 [HOMBRE PERFORMATIVO - YouTube](https://youtu.be/OqxtWm20hoI?si=quTcrhhRBFQ1K6Eg)[HOMBRE PERFORMATIVO - YouTube](https://youtu.be/OqxtWm20hoI?si=quTcrhhRBFQ1K6Eg)
-
-
 
 ## 4. Un hombre pro feminista : mi visión personal => Juego de puntos
 
@@ -89,7 +93,8 @@ Ejemplo: ¿criticas delante de otros hombres los chistes machistas, o comentario
 
 España destaca por una base teórica sólida en estudios de masculinidades:
 
-* Luis Bonino, acuñó el termino micro-machismos
+* Luis Bonino, acuñó el termino micro-machismos : ["Los Micromachismos
+  Luis Bonino © 2004"](./doc/Los_Micromachismos_2004_Luis_Bonino.pdf)
 
 * Iván Sambade
 
@@ -99,7 +104,7 @@ España destaca por una base teórica sólida en estudios de masculinidades:
 
 Son los algunos ejemplos 
 
-## 6. Grupos de hombre pro-feministas
+## 6. Grupos de hombre pro-feministas, panorámica
 
 - Dos enfoques de acción : Introspección / Apoyo agenda feminista ( + en cuidados)
 
@@ -107,14 +112,26 @@ Son los algunos ejemplos
 
 - Redes de grupos / iniciativas globales
   
-  - heforshe (ONU)
+  - [ONU HeForShe](https://www.heforshe.org/es)
   
-  - MenEngage Iberia
+  - [MenEngage Iberia](https://menengageiberia.org/)
   
-  - Red Hombres por la Igualdad (RHX=)
+  - [Red Hombres por la Igualdad](https://redhombresigualdad.org/)
   
-  - AHIGE – Asociación de Hombres por la Igualdad de Género
+  - [AHIGE – Asociación de Hombres por la Igualdad de Género](https://ahige.org/)
+  
+  - [STOPMACHISMO](https://www.stopmachismo.net/)
 
 - Mapa de grupos actualmente en Madrid
   
+  [Red de grupos de hombres de Madrid contra el machismo](https://redgruposhombresmadrid.wordpress.com/)
+  
+  
+  
   ![](./doc/grupos_HxF_madrid.jpg)
+  
+  ---
+  
+  FIN
+  
+  ---
