@@ -44,9 +44,9 @@ Son solo algunos ejemplos obtenidos de : CIS PERCEPCIONES SOBRE LA IGUALDAD ENTR
 
 [Estudio nº 3428_1 Noviembre 2023](./doc/Es3428sd_Hombres_A.pdf)
 
+Estudios internaciones muestran el mismo patrón (con las lógicas diferencias por países) : [IWD charts 2025](./doc/IWD2025GlobalChartsFINAL_1.pdf)
 
 
-Estudios internaciones muestran el mismo patrón (con las lógicas diferencias por países) : [IWD charts 2025](./doc/IWD 2025 Global Charts FINAL_1.pdf)
 
 Por un lado, esta visión es algo , o muy , **edadista** porque implica que los hombres mayores ya no pintamos nada. Seguimos luchando, mucho o poco , pero seguimos luchando.
 
@@ -127,11 +127,11 @@ Son los algunos ejemplos
 - Mapa de grupos actualmente en Madrid
   
   [Red de grupos de hombres de Madrid contra el machismo](https://redgruposhombresmadrid.wordpress.com/)
-
+  
   ![](./doc/grupos_HxF_madrid.jpg)
-
+  
   ---
-
+  
   FIN
-
+  
   ---
