@@ -42,7 +42,7 @@ Fig 3 : De acuerdo con "Se ha llegado tan lejos en la igualdad que ahora se disc
 
 Son solo algunos ejemplos obtenidos de : 
 
-[CIS PERCEPCIONES SOBRE LA IGUALDAD ENTRE HOMBRES Y MUJERES Y ESTEREOTIPOS DE GÉNERO. (Muestra hombres) Estudio nº 3428_1 Noviembre 2023](Es3428sd_Hombres_A.pdf)
+[CIS PERCEPCIONES SOBRE LA IGUALDAD ENTRE HOMBRES Y MUJERES Y ESTEREOTIPOS DE GÉNERO. Muestra hombres Estudio nº 3428_1 Noviembre 2023](Es3428sd_Hombres_A.pdf)
 
 Estudios internaciones muestran el mismo patrón (con las lógicas diferencias por países) : [IWD charts 2025](./doc/IWD 2025 Global Charts FINAL_1.pdf)
 
